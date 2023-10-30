@@ -1,7 +1,6 @@
 ### Olá, eu sou Thayanne Oliveira
 
 - 🌱 Eu estou estudando python e C
-
 ##
 <div>
   <a href="https://github.com/ThaayOliveira">
@@ -17,5 +16,6 @@
   <img align="center" alt="Thay-JS" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
   ##
-          
+<a href="https://www.linkedin.com/in/thayanne-oliveira-b3661620a/" target="_blanck"> img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
 
+</div>
