@@ -15,6 +15,7 @@
   <img align="center" alt="Thay-JS" height="50" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Thay-PHP" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
   <img align="center" alt="Thay-JS" height="50" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="right" alt=Thay-gif" src="https://i.picasion.com/pic92/86d46f2fda235c83eab6dab8c5c539ce.gif"/>
 </div>
 
   ##
@@ -31,6 +32,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<picture>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/86d46f2fda235c83eab6dab8c5c539ce.gif"  border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
-</picture>
