@@ -15,7 +15,7 @@
   <img align="center" alt="Thay-JS" height="50" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Thay-PHP" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
   <img align="center" alt="Thay-JS" height="50" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" alt=Thay-gif" src="https://picasion.com/i/2H8rn"/>
+  <img align="right" alt=darthvader-gif src="https://br.pinterest.com/pin/37154765668319340" />
 </div>
 
   ##
