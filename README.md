@@ -15,7 +15,6 @@
   <img align="center" alt="Thay-JS" height="50" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Thay-PHP" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
   <img align="center" alt="Thay-JS" height="50" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="rigth"  alt="Thay-gif" height="90" width="60"  src="https://br.pinterest.com/pin/37154765668319340/" >
 </div>
 
   ##
