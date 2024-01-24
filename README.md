@@ -1,7 +1,7 @@
 ### Olá, eu sou Thayanne Oliveira
 
 - :open_book: Ciência da Computação
-- 🌱 Eu estou estudando python e C
+- 🌱 Eu estou estudando python, Java, C
 ##
 <div>
   <a href="https://github.com/ThaayOliveira">
