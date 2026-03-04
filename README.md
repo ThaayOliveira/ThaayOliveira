@@ -4,9 +4,6 @@
 🚀 Foco em Java, Spring Boot, desenvolvimento Web e DevOps
 
 ##
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ThaayOliveira&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thay-Java" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
