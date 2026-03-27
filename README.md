@@ -1,7 +1,7 @@
 ### Olá, eu sou Thayanne Oliveira
 🎓 Ciência da Computação  
 💻 Desenvolvedora Full Stack  
-🚀 Foco em Java, Spring Boot, desenvolvimento Web e DevOps
+🚀 Foco em Java, Spring Boot, C# .NET, Node.js, desenvolvimento Web e DevOps
 
 ##
 
