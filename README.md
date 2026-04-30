@@ -5,7 +5,7 @@
 
 ##
 
-<div style="display"><br>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img align="center" alt="Thay-Java" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Thay-JS" height="50" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Thay-PHP" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
